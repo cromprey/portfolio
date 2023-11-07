@@ -775,13 +775,11 @@ a.fa.fa-angle-down:focus {
     height: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #D95B5B;
+    background: #DB886A;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    display;
-    block;
     color: #FFF;
     font-size: 55px;
     text-align: center;
