@@ -769,15 +769,15 @@ a.fa.fa-angle-down:focus {
     font-weight: 500;
 }
 
-.icon1{
+.colorG{
     background: #758C64;
 }
 
-.icon2{
+.colorO{
     background: #D98555;
 }
 
-.icon3{
+.colorB{
     background: #324359;
 }
 
@@ -1213,9 +1213,8 @@ a.fa.fa-angle-down:focus {
     line-height: 1.5;
 }
 
-img#starry-logo,
-img#mullen-logo,
-img#nu-logo {
+img#ualr-logo,
+img#wccc-logo {
     height: auto;
     display: block;
     -webkit-transition: all .3s ease-in-out;
@@ -1223,17 +1222,13 @@ img#nu-logo {
     transition: all .3s ease-in-out
 }
 
-img#starry-logo {
-    width: 180px;
-    margin: 0 auto 10px;
-}
 
-img#mullen-logo {
+img#ualr-logo {
     width: 200px;
     margin: 0 auto 10px;
 }
 
-img#nu-logo {
+img#wccc-logo {
     width: 120px;
     margin: 0 auto;
 }
