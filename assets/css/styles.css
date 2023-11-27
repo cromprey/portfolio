@@ -17,7 +17,6 @@ body {
     background-color: #FFF;
     margin: 0px auto;
     position: relative;
-    font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
     -webkit-font-smoothing: antialiased;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -770,12 +769,24 @@ a.fa.fa-angle-down:focus {
     font-weight: 500;
 }
 
+.icon1{
+    background: #758C64;
+}
+
+.icon2{
+    background: #D98555;
+}
+
+.icon3{
+    background: #324359;
+}
+
+
 .icon {
     width: 175px;
     height: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #DB886A;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
