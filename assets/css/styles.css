@@ -191,7 +191,7 @@ button:focus,
 }
 
 .color {
-    color: #00009C;
+    color: #758C64;
 }
 
 .spacer-10 {
@@ -236,7 +236,7 @@ p {
 }
 
 a {
-    color: #00009C;
+    color: #758C64;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -246,7 +246,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #0000DD;
+    color: #758C64;
 }
 
 
@@ -885,7 +885,7 @@ a.fa.fa-angle-down:focus {
     position: absolute;
     width: 0%;
     height: 100%;
-    background: #00009c;
+    background: #758C64;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
@@ -1271,7 +1271,7 @@ img#wccc-logo {
 /* ======= RESUME ======= */
 
 #resume {
-    background: url(../img/laptop-blur.jpg);
+    background: url(../img/desk-img.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1472,7 +1472,7 @@ a.resume-btn:active {
     position: absolute;
     bottom: -100%;
     left: 0;
-    background-color: #00009C;
+    background-color: #758C64;
     color: #fff;
     height: 45px;
     width: 100%;
@@ -1701,8 +1701,8 @@ a.resume-btn:active {
 
 #contact #email-button:hover {
     color: #fff;
-    background: #00009C;
-    border: 2px solid #00009C;
+    background: #758C64;
+    border: 2px solid #758C64;
 }
 
 @media screen and (max-width: 480px) {
@@ -1928,8 +1928,8 @@ ul.social-buttons li a:active {
 
 .modal-body #visit-btn {
     padding: 10px;
-    color: #00009C;
-    border: 2px solid #00009C;
+    color: #758C64;
+    border: 2px solid #758C64;
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
@@ -1941,7 +1941,7 @@ ul.social-buttons li a:active {
 
 .modal-body #visit-btn:hover {
     color: #fff;
-    background-color: #00009C;
+    background-color: #758C64;
 }
 
 .modal-description {
