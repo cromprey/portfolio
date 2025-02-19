@@ -1214,7 +1214,7 @@ a.fa.fa-angle-down:focus {
 }
 
 img#ualr-logo,
-img#wccc-logo {
+img#cjrw-logo {
     height: auto;
     display: block;
     -webkit-transition: all .3s ease-in-out;
@@ -1224,11 +1224,11 @@ img#wccc-logo {
 
 
 img#ualr-logo {
-    width: 200px;
-    margin: 0 auto 10px;
+    width: 150px;
+    margin: 0 auto;
 }
 
-img#wccc-logo {
+img#cjrw-logo {
     width: 120px;
     margin: 0 auto;
 }
@@ -1245,7 +1245,7 @@ img#wccc-logo {
     img#ualr-logo {
         width: 200px;
     }
-    img#wccc-logo {
+    img#cjrw-logo {
         width: 150px;
     }
 }
