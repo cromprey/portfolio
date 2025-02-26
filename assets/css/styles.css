@@ -23,6 +23,7 @@ body {
     font-weight: normal;
 }
 
+
 button:focus,
 .btn:focus {
     outline: 0 !important;
@@ -1397,7 +1398,9 @@ a.resume-btn:active {
 
 #portfolio .portfolio-item img {
     max-width: 100%;
-    width: 100%;
+    width: 420px;
+    height: 180px;
+    object-fit: scale-down;
     opacity: 1.0;
     transition: 0.3s ease-in-out;
     -moz-transition: 0.3s ease-in-out;
